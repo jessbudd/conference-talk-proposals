@@ -7,9 +7,12 @@ The outcome will be updated for all proposals. Any feedback received, links to v
 
 ---
 
-This repository is inspired by [Allison Kaptur's PyCon Proposals repository](https://github.com/akaptur/pycon-proposals).
+This repository was forked from https://github.com/emilyemorehouse/conference-talk-proposals
+
+is inspired by [Allison Kaptur's PyCon Proposals repository]().
 
 ## Other proposal examples on the web:
+* [Emily Morehouse](https://github.com/emilyemorehouse/conference-talk-proposals)
 * [Allison Kaptur](https://github.com/akaptur/pycon-proposals)
 * [Brandon Rhodes](http://rhodesmill.org/brandon/2013/example-pycon-proposals/)
 * [Julia Evans](https://github.com/jvns/talks/tree/master/proposals)
