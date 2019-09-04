@@ -17,3 +17,9 @@ Intermediate
 
 ## Bio:
 Jess is an experienced UI developer and web accessibility consultant, working as a Digital Producer at Australia's second largest not-for-profit health fund. She is co-organiser of Fenders, a local meetup for front-end developers and is often found volunteering her time mentoring women learning to code. She’s known for her love of cheese, but is also crazy about UX design, technology and futurism.
+
+## Accepted at:
+* LaraCon 2019 (invited, no CFP)
+
+
+## Rejected at:
